@@ -7,3 +7,4 @@ Tes Melakukan Revert
 Tes revert
 
 Coba squash change (1)
+Coba squash change (2)
