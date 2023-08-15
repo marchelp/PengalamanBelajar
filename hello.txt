@@ -8,3 +8,4 @@ Tes revert
 
 Coba squash change (1)
 Coba squash change (2)
+Coba squash change (3)
